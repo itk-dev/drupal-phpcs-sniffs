@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ruleset name="ItkDevDrupal">
+    <description>Additional Drupal conding standards</description>
+
+    <!--
+    <rule ref="ItkDevDrupal.Semantics.MethodLog">
+      <exclude-pattern>*.js</exclude-pattern>
+    </rule>
+    -->
+</ruleset>
