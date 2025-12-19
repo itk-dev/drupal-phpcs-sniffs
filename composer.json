@@ -1,0 +1,16 @@
+{
+    "name": "itk-dev/drupal-phpcs-sniffs",
+    "description": "Additional Drupal coding standards",
+    "license": "MIT",
+    "type": "phpcodesniffer-standard",
+    "keywords": [
+        "phpcs",
+        "dev"
+    ],
+    "authors": [
+        {
+            "name": "Mikkel Ricky",
+            "email": "rimi@aarhus.dk"
+        }
+    ]
+}
